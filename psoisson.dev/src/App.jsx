@@ -5,7 +5,7 @@ import Header from './components/header/header';
 import Intro from './components/intro/intro';
 import Photography from './components/photography/photography';
 import Contact from './components/contact/contact';
-import "./app.sass"
+import "./app.scss"
 
 function App() {
   return (
