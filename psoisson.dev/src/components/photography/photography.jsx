@@ -3,7 +3,7 @@ import "./photography.sass"
 
 export default function Photography() {
     return (
-        <div className="Photography">
+        <div className="Photography" id="photography">
 
         </div>
     )

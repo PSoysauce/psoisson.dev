@@ -3,7 +3,7 @@ import "./portfolio.sass"
 
 export default function Portfolio() {
     return (
-        <div className="Portfolio">
+        <div className="Portfolio" id="portfolio">
 
         </div>
     )

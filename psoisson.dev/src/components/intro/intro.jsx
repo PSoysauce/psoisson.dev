@@ -3,8 +3,8 @@ import "./intro.sass"
 
 export default function Intro() {
     return (
-        <div className="Intro">
-            
+        <div className="Intro" id="intro">
+            <div></div>
         </div>
     )
 }
