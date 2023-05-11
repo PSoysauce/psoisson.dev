@@ -72,3 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Colors 
 https://coolors.co/palettes/trending
+
+Skills idea
+![image](https://github.com/PSoysauce/psoisson.dev/assets/32037100/b8be114c-d344-40d9-b7a2-1ec58b9f26cf)
+
