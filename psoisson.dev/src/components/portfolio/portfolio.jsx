@@ -5,7 +5,7 @@ export default function Portfolio() {
   return (
     <div className="Portfolio" id="portfolio">
       <div class="project">
-        <h1> Projects </h1>
+        <h1>Projects</h1>
       </div>
       <div class="gallery">
         <a href="https://github.com/PSoysauce/TI-Innovator-Hub-Data-Acquisition-Tool">

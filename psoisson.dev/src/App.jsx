@@ -19,7 +19,6 @@ function App() {
         <Experience/>
         <Skills/>
         <Portfolio/>
-        <AboutMe/>
         <Contact/>
       </div>
     </div>
