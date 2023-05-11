@@ -3,8 +3,10 @@ import './App.css';
 import Portfolio from './components/portfolio/portfolio';
 import Header from './components/header/header';
 import Intro from './components/intro/intro';
-import Photography from './components/photography/photography';
+import AboutMe from './components/aboutme/aboutme';
 import Contact from './components/contact/contact';
+import Skills from './components/skills/skills'
+import Experience from './components/experience/experience'
 import "./app.scss"
 
 function App() {
@@ -14,8 +16,10 @@ function App() {
       
       <div className="sections">
         <Intro/>
+        <Experience/>
+        <Skills/>
         <Portfolio/>
-        <Photography/>
+        <AboutMe/>
         <Contact/>
       </div>
     </div>
