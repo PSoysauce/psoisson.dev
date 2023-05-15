@@ -4,26 +4,31 @@ import "./header.sass";
 export default function Header() {
   return (
     <div className="header">
-       <div className="logo" href="#intro">psoisson.dev</div>
-      <nav>
-        
-        <ul class="navLinks">
        
-          <li>
-            <a href="#intro">Intro</a>
-          </li>
-          <li>
-            <a href="#experience">Experience</a>
-          </li>
-          <li>
-            <a href="#skills">Skills</a>
-          </li>
-          <li>
-            <a href="#portfolio">Projects</a>
-          </li>
-          <li>
-          <a href="https://drive.google.com/file/d/1mHm1N7liZAVf6GicI4bkpNhyHExpU3gY/view?usp=sharing" target="_blank">Resume</a>
-          </li>
+      <nav>
+        <ul class="navLinks">
+          <div class="left">
+            <li>
+              <a class="logo" href="#intro">psoisson.dev</a>
+            </li>
+          </div>
+          <div class="right">
+            <li>
+              <a href="#intro">Intro</a>
+            </li>
+            <li>
+              <a href="#experience">Experience</a>
+            </li>
+            <li>
+              <a href="#skills">Skills</a>
+            </li>
+            <li>
+              <a href="#portfolio">Projects</a>
+            </li>
+            <li>
+            <a href="https://drive.google.com/file/d/1mHm1N7liZAVf6GicI4bkpNhyHExpU3gY/view?usp=sharing" target="_blank">Resume</a>
+            </li>
+          </div>
         </ul>
       </nav>
     </div>
