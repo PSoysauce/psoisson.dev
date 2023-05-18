@@ -8,15 +8,16 @@ import resume from '../../img/resume.png'
 
 export default function Contact() {
     return (
+        
         <div className="Contact" id="contact">
-            <h1>Connect with Me</h1>
+            <div class="project">
+        <h1>Contact Me</h1>
+        </div>
             <a href="mailto:patrick.b.soisson@gmail.com"><img src={email}></img></a>
 			<a href="https://www.linkedin.com/in/patrick-soisson"><img src={linkedin}></img></a>
             <a href="https://github.com/PSoysauce"><img src={github}></img></a>
             <a href="tel:281-839-4645"><img src={phone}></img></a>
-			<a href="PatrickSoissonResume.pdf"><img src={resume}></img></a>
             <a href="https://trailblazer.me/id/psoisson"><img src="img/resume.png"></img></a>
-
         </div>
     )
 }
