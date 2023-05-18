@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/psoisson.dev/static/css/main.e3a738fb.css",
-    "main.js": "/psoisson.dev/static/js/main.0fff3af8.js",
+    "main.css": "/psoisson.dev/static/css/main.943ff68b.css",
+    "main.js": "/psoisson.dev/static/js/main.8889ad05.js",
     "static/js/787.a0b031ea.chunk.js": "/psoisson.dev/static/js/787.a0b031ea.chunk.js",
     "static/media/DSC09008.JPG": "/psoisson.dev/static/media/DSC09008.0aaac277310ebe23cca9.JPG",
+    "static/media/sflogo.png": "/psoisson.dev/static/media/sflogo.e82ce446ada6714b4f97.png",
     "index.html": "/psoisson.dev/index.html",
-    "main.e3a738fb.css.map": "/psoisson.dev/static/css/main.e3a738fb.css.map",
-    "main.0fff3af8.js.map": "/psoisson.dev/static/js/main.0fff3af8.js.map",
+    "main.943ff68b.css.map": "/psoisson.dev/static/css/main.943ff68b.css.map",
+    "main.8889ad05.js.map": "/psoisson.dev/static/js/main.8889ad05.js.map",
     "787.a0b031ea.chunk.js.map": "/psoisson.dev/static/js/787.a0b031ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3a738fb.css",
-    "static/js/main.0fff3af8.js"
+    "static/css/main.943ff68b.css",
+    "static/js/main.8889ad05.js"
   ]
 }
