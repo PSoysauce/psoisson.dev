@@ -26,7 +26,7 @@ export default function Header() {
               <a href="#portfolio">Projects</a>
             </li>
             <li>
-            <a href="https://drive.google.com/file/d/1mHm1N7liZAVf6GicI4bkpNhyHExpU3gY/view?usp=sharing" target="_blank">Resume</a>
+            <a href="https://drive.google.com/file/d/1PvwUoyCxIIKO3jD-8DUpjbf-gwSdoloe/view?usp=share_link" target="_blank">Resume</a>
             </li>
           </div>
         </ul>
