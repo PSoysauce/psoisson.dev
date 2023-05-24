@@ -38,7 +38,9 @@ export default function Skills() {
               <span class="badge bg-secondary skillspace">SQL</span>
               <span class="badge bg-secondary skillspace">HTML</span>
               <span class="badge bg-secondary skillspace">CSS</span>
+              <span class="badge bg-secondary skillspace">Sass</span>
               <span class="badge bg-secondary skillspace">JavaScript</span>
+              <span class="badge bg-secondary skillspace">TypeScript</span>
               <span class="badge bg-secondary skillspace">Apex</span>
               <span class="badge bg-secondary skillspace">Python</span>
               <span class="badge bg-secondary skillspace">C++</span>
