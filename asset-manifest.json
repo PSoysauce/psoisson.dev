@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/psoisson.dev/static/css/main.41d26cc9.css",
-    "main.js": "/psoisson.dev/static/js/main.85966475.js",
+    "main.js": "/psoisson.dev/static/js/main.d670f8e5.js",
     "static/js/787.a0b031ea.chunk.js": "/psoisson.dev/static/js/787.a0b031ea.chunk.js",
     "static/media/DSC09008.JPG": "/psoisson.dev/static/media/DSC09008.0aaac277310ebe23cca9.JPG",
     "static/media/sflogo.png": "/psoisson.dev/static/media/sflogo.e82ce446ada6714b4f97.png",
     "index.html": "/psoisson.dev/index.html",
     "main.41d26cc9.css.map": "/psoisson.dev/static/css/main.41d26cc9.css.map",
-    "main.85966475.js.map": "/psoisson.dev/static/js/main.85966475.js.map",
+    "main.d670f8e5.js.map": "/psoisson.dev/static/js/main.d670f8e5.js.map",
     "787.a0b031ea.chunk.js.map": "/psoisson.dev/static/js/787.a0b031ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41d26cc9.css",
-    "static/js/main.85966475.js"
+    "static/js/main.d670f8e5.js"
   ]
 }
