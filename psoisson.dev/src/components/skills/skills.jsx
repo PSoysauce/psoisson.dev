@@ -34,44 +34,47 @@ export default function Skills() {
           <h3>Programming</h3>
           <h4>
             <ul>
-              <li>Java</li>
-              <li>SQL</li>
-              <li>HTML</li>
-              <li>CSS</li>
-              <li>JavaScript</li>
-              <li>Apex</li>
-              <li>Python</li>
-              <li>C++</li>
-              <li>C</li>
-              <li>Bash</li>
-              <li>ksh</li>
-              <li>R</li>
+              <span class="badge bg-secondary skillspace">Java</span>
+              <span class="badge bg-secondary skillspace">SQL</span>
+              <span class="badge bg-secondary skillspace">HTML</span>
+              <span class="badge bg-secondary skillspace">CSS</span>
+              <span class="badge bg-secondary skillspace">JavaScript</span>
+              <span class="badge bg-secondary skillspace">Apex</span>
+              <span class="badge bg-secondary skillspace">Python</span>
+              <span class="badge bg-secondary skillspace">C++</span>
+              <span class="badge bg-secondary skillspace">C</span>
+              <span class="badge bg-secondary skillspace">Bash</span>
+              <span class="badge bg-secondary skillspace">ksh</span>
+              <span class="badge bg-secondary skillspace">R</span>
             </ul>
-            
           </h4>
         </div>
 
         <div class="subskill">
           <h3>Frameworks</h3>
-          <ul>
-            <li>Lightning Web Components</li>
-            <li>Angular</li>
-            <li>React</li>
-          </ul>
+          <h4>
+            <ul>
+              <span class="badge bg-secondary skillspace">
+                Lightning Web Components
+              </span>
+              <span class="badge bg-secondary skillspace">Angular</span>
+              <span class="badge bg-secondary skillspace">React</span>
+            </ul>
+          </h4>
         </div>
         <div class="subskill">
           <h3>Data</h3>
           <h4>
             <ul>
-              <li>DataStage</li>
-              <li>Control-M</li>
-              <li>Snowflake</li>
-              <li>SF Data Loader</li>
-              <li>Netezza</li>
-              <li>dbt</li>
-              <li>Excel</li>
-              <li>Kafka</li>
-              <li>Tableau</li>
+              <span class="badge bg-secondary skillspace">DataStage</span>
+              <span class="badge bg-secondary skillspace">Control-M</span>
+              <span class="badge bg-secondary skillspace">Snowflake</span>
+              <span class="badge bg-secondary skillspace">SF Data Loader</span>
+              <span class="badge bg-secondary skillspace">Netezza</span>
+              <span class="badge bg-secondary skillspace">Excel</span>
+              <span class="badge bg-secondary skillspace">Kafka</span>
+              <span class="badge bg-secondary skillspace">Tableau</span>
+              <span class="badge bg-secondary skillspace">dbt</span>
             </ul>
           </h4>
         </div>
@@ -79,28 +82,39 @@ export default function Skills() {
           <h3>Testing</h3>
           <h4>
             <ul>
-              <li>qTest</li>
-              <li>Apex Unit Tests</li>
+              <span class="badge bg-secondary skillspace">qTest</span>
+              <span class="badge bg-secondary skillspace">Unit Tests</span>
+              <span class="badge bg-secondary skillspace">System Tests</span>
+              <span class="badge bg-secondary skillspace">
+                Functional Tests
+              </span>
+              <span class="badge bg-secondary skillspace">
+                Integration Tests
+              </span>
             </ul>
           </h4>
         </div>
-        <div class="subskill"> 
+        <div class="subskill">
           <h3>DevOps</h3>
           <h4>
             <ul>
-              <li>UrbanCode Deploy</li>
-              <li>Copado</li>
-              <li>GitLab CI/CD</li>
-              <li>Docker</li>
-              <li>Openshift</li>
-            </ul> 
+              <span class="badge bg-secondary skillspace">
+                UrbanCode Deploy
+              </span>
+              <span class="badge bg-secondary skillspace">Copado</span>
+              <span class="badge bg-secondary skillspace">GitLab CI/CD</span>
+              <span class="badge bg-secondary skillspace">Docker</span>
+              <span class="badge bg-secondary skillspace">Openshift</span>
+            </ul>
           </h4>
         </div>
         <div class="subskill">
           <h3>Certifications</h3>
           <h4>
             <ul>
-              <li>Salesforce Certified Administrator</li>
+              <span class="badge bg-secondary skillspace">
+                Salesforce Certified Administrator
+              </span>
             </ul>
           </h4>
         </div>
