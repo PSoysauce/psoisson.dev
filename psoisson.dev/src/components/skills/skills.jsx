@@ -1,6 +1,7 @@
 import React from "react";
 import "./skills.sass";
 
+
 export default function Skills() {
   return (
     <div className="Skills" id="skills">
@@ -28,7 +29,9 @@ export default function Skills() {
           crossorigin="anonymous"
         ></script>
       </head>
-      <h2 class="title">Skills</h2>
+      <div class="title">
+      <h1 class="titletext">Skills</h1>
+      </div>
       <div class="skillset">
         <div class="subskill">
           <h3>Programming</h3>

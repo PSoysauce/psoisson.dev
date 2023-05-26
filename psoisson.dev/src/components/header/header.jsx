@@ -20,11 +20,12 @@ export default function Header() {
               <a href="#experience">Experience</a>
             </li>
             <li>
-              <a href="#skills">Skills</a>
-            </li>
-            <li>
               <a href="#portfolio">Projects</a>
             </li>
+            <li>
+              <a href="#skills">Skills</a>
+            </li>
+            
             <li>
             <a href="https://drive.google.com/file/d/1PvwUoyCxIIKO3jD-8DUpjbf-gwSdoloe/view?usp=share_link" target="_blank">Resume</a>
             </li>

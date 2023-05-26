@@ -4,7 +4,9 @@ import "./experience.sass";
 export default function Experience() {
   return (
     <div className="Experience" id="experience">
-      <h1>Work Experience</h1>
+      <div class="title">
+      <h1 class="titletext">Work Experience</h1>
+      </div>
       <div class="job">
         <h2>USAA - Software Engineer</h2>
         <h6>June 2021 - Current</h6>

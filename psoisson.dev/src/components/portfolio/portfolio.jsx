@@ -1,16 +1,18 @@
 import React from "react";
 import "./portfolio.sass";
 import link from "../../img/link.png";
+import trophy from "../../img/trophy.png";
 
 export default function Portfolio() {
   return (
     <div className="Portfolio" id="portfolio">
-      <div class="project">
-        <h1>Projects</h1>
+      <div class="title">
+        <h1 class="titletext">Projects</h1>
       </div>
       <div class="projects">
         <div class="gallery">
-          <div class="desc">Texas Instruments - Senior Design Project</div>
+        {/* <a href="https://github.com/PSoysauce/TI-Innovator-Hub-Data-Acquisition-Tool"> */}
+          <div class="desc">Texas Instruments - TI Innovator Hub Data Acquisition-Tool</div>
           <div class="right">
             <a href="https://github.com/PSoysauce/TI-Innovator-Hub-Data-Acquisition-Tool">
               <img
@@ -51,14 +53,16 @@ export default function Portfolio() {
         </div>
 
         <div class="gallery">
-          <div class="desc">USAA Centennial Hackathon - Memecoin Rewards</div>
+          <div class="desc">USAA Centennial Hackathon - Memecoin Rewards 
+          <img src={trophy} alt="trophy" width="10" height="10"></img>
+          </div>
           <div class="right">
             <a href="https://drive.google.com/file/d/1xTnXzsC7syhfAQEa_4UF8R9D0v8Q0WRd/view?usp=share_link">
               <img src={link} alt="Nasa" width="10" height="10"></img>
             </a>
           </div>
           <div class="skillused">
-            <span class="badge bg-secondary skillspace">Concept of Blockchain</span>
+            <span class="badge bg-secondary skillspace">Blockchain</span>
             <span class="badge bg-secondary skillspace">Banking</span>
             <span class="badge bg-secondary skillspace">Innovation</span>
           </div>
@@ -67,7 +71,7 @@ export default function Portfolio() {
           </div>
         </div>
         <div class="gallery">
-          <div class="desc">Hacktober - Phantom</div>
+          <div class="desc">Hacktober - Phantom  <img src={trophy} alt="trophy" width="10" height="10"></img></div>
           <div class="right">
             <a href="https://devpost.com/software/phantom-z648hj">
               <img src={link} alt="Team Phantom" width="10" height="10"></img>
@@ -190,9 +194,6 @@ export default function Portfolio() {
             <span class="badge bg-secondary skillspace">TypeScript</span>
             <span class="badge bg-secondary skillspace">IBM Watson</span>
             <span class="badge bg-secondary skillspace">Bootstrap</span>
-            <span class="badge bg-secondary skillspace">jquery</span>
-            <span class="badge bg-secondary skillspace">particle.js</span>
-            <span class="badge bg-secondary skillspace">Sentiment analysis</span>
           </div>
           <div class="moreinfo">
             Created a website bias analysis which allow the user to input a website and we would give a score based on the analysis of the webpage on how biased an article is
