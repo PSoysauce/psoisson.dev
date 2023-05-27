@@ -5,11 +5,21 @@ export default function Experience() {
   return (
     <div className="Experience" id="experience">
       <div class="title">
-      <h1 class="titletext">Work Experience</h1>
+      <h1 class="titletext">Experience</h1>
       </div>
       <div class="job">
-        <h2>USAA - Software Engineer</h2>
-        <h6>June 2021 - Current</h6>
+      <h2 class="jobtitle">Software Engineer</h2>
+      
+      <div>
+        <div class="left">
+        <h2 class="company">USAA</h2>
+        </div>
+        <div class="rightjob">
+          <h6 class="time">June 2021 - Current</h6>
+        </div>
+      </div>
+      
+        
         <pre>
           <ul>
           <li>
@@ -76,8 +86,15 @@ export default function Experience() {
         </pre>
       </div>
       <div class="job">
-        <h2>USAA - Software Engineering Intern</h2>
-        <h6>May 2020 - July 2020</h6>
+        <h2 class="jobtitle">Software Engineering Intern</h2>
+        <div>
+        <div class="left">
+        <h2 class="company">USAA</h2>
+        </div>
+        <div class="rightjob">
+          <h6 class="time">May 2020 - July 2020</h6>
+        </div>
+      </div>
         <ul>
           
           <li>
@@ -95,8 +112,15 @@ export default function Experience() {
         </ul>
       </div>
       <div class="job">
-        <h2>Fidelity Investments - Software Engineering Intern</h2>
-        <h6>May 2019 - Aug 2019</h6>
+        <h2 class="jobtitle">Software Engineering Intern</h2>
+        <div>
+          <div class="left">
+          <h2 class="company">Fidelity Investments</h2>
+          </div>
+          <div class="rightjob">
+            <h6 class="time">May 2019 - Aug 2019</h6>
+          </div>
+        </div>
         <ul>
           <li>
           Worked in a SCRUM Agile Environment with the Wealth Management Team.
@@ -107,6 +131,21 @@ export default function Experience() {
           templates campaigns.
           </li>
         </ul>
+      </div>
+      <div class="title">
+        <h1 class="titletext">Education</h1>
+      </div>
+      <div class="job">
+        <h2 class="jobtitle">Bachelor of Science in Computer Science</h2>
+        <div>
+          <div class="left">
+          <h2 class="company">The University of Texas at Dallas - Cum Laude</h2>
+          </div>
+          <div class="rightjob">
+            <h6 class="time">Aug 2017 - May 2021</h6>
+          </div>
+        </div>
+        
       </div>
     </div>
   );
