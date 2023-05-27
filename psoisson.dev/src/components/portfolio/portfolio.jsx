@@ -54,7 +54,7 @@ export default function Portfolio() {
 
         <div class="gallery">
           <div class="desc">USAA Centennial Hackathon - Memecoin Rewards 
-          <img src={trophy} alt="trophy" width="10" height="10"></img>
+          <img class="trophy" src={trophy} alt="trophy" width="10" height="10"></img>
           </div>
           <div class="right">
             <a href="https://drive.google.com/file/d/1xTnXzsC7syhfAQEa_4UF8R9D0v8Q0WRd/view?usp=share_link">
