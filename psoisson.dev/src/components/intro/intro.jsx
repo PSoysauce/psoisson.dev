@@ -11,19 +11,19 @@ import sflogo from '../../img/sflogo.png'
 
 export default function Intro() {
     return (
-        <div className="Intro" id="intro">
-            <div class="left">
-                <img src={profilepic} class="Profile" alt="Profile"></img>
+            <div className="Intro" id="intro">
+            <div className="left">
+                <img src={profilepic} className="Profile" alt="Profile"></img>
             </div>
-            <div class="right">
-                <div class="text">
+            <div className="right">
+                <div className="text">
                     <h1>Patrick Soisson</h1>
-                    <div class="pin">
-                        <h4><img src={pin}></img><i>Orlando, FL</i></h4>
+                    <div className="pin">
+                        <h4><img src={pin}></img><i>San Antonio, TX</i></h4>
                     </div>                    
                     <h3>Patrick graduated from The University of Texas at Dallas in May 2021 with a Bachelor's degree in Computer Science. He has 2.5 years of Software Engineering Experience.
                         He is passionate about automation, documentation, learning new technologies, modernization, and being purposefully inclusive.</h3>
-                    <div class="icons">
+                    <div className="icons">
                         <a href="tel:281-839-4645"><img src={phone}></img></a>
                         <a href="mailto:patrick.b.soisson@gmail.com"><img src={email}></img></a>
                         <a href="https://github.com/PSoysauce"><img src={github}></img></a>
@@ -35,5 +35,6 @@ export default function Intro() {
             </div>
             
         </div>
+        
     )
 }
